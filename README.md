@@ -1,60 +1,127 @@
-# 🤖 Inteligência Artificial Aplicada à Segurança da Informação
+# 🤖 Inteligência Artificial na Segurança da Informação
 
-> Projeto desenvolvido como parte dos estudos na **DIO (Digital Innovation One)**, utilizando o **NotebookLM** como ferramenta de apoio à aprendizagem e organização do conhecimento.
+> **Projeto desenvolvido durante o Bootcamp da DIO**, utilizando o **NotebookLM** como ferramenta de apoio ao aprendizado, pesquisa e organização do conhecimento sobre Inteligência Artificial aplicada à Segurança da Informação.
+
+---
 
 ## 📖 Sobre o Projeto
 
-A Inteligência Artificial está revolucionando a Segurança da Informação ao permitir a identificação de ameaças, automação de respostas a incidentes e análise inteligente de grandes volumes de dados.
+A crescente evolução dos ataques cibernéticos exige mecanismos de defesa capazes de analisar grandes volumes de dados, identificar padrões complexos e responder rapidamente a incidentes. Nesse contexto, a Inteligência Artificial tornou-se uma das principais tecnologias para fortalecer a Segurança da Informação.
 
-Este repositório reúne um **Caderno Temático** produzido no NotebookLM, consolidando conceitos, aplicações práticas, benefícios, desafios e tendências da IA aplicada à Cibersegurança. O objetivo é servir como material de consulta e demonstrar a utilização de ferramentas de IA no processo de aprendizagem.
+Este projeto reúne um **Caderno Temático** desenvolvido com o auxílio do **NotebookLM**, explorando conceitos fundamentais, aplicações práticas, desafios, engenharia de prompts e referências utilizadas durante os estudos.
+
+Além da pesquisa técnica, o projeto demonstra a utilização da IA como ferramenta de apoio ao aprendizado, organização de informações e documentação técnica.
+
+---
 
 ## 🎯 Objetivos
 
 * Compreender os fundamentos da Inteligência Artificial aplicada à Segurança da Informação.
-* Explorar aplicações práticas da IA na detecção e resposta a ameaças.
-* Identificar benefícios, limitações e desafios da tecnologia.
-* Organizar um material de consulta para revisões e estudos futuros.
-* Demonstrar o uso do NotebookLM como ferramenta de apoio ao aprendizado.
-
-## 📚 Conteúdo
-
-* Introdução à Inteligência Artificial
-* Machine Learning e Deep Learning
-* Processamento de Linguagem Natural (NLP)
-* Aplicações da IA na Cibersegurança
-* Detecção de ameaças e resposta a incidentes
-* Proteção contra phishing e fraudes
-* Benefícios e limitações da IA
-* Tendências e desafios futuros
-
-## 🛠️ Ferramentas Utilizadas
-
-* **NotebookLM** – Organização e síntese do conteúdo.
-* **GitHub** – Versionamento e publicação do projeto.
-* **Markdown** – Documentação do repositório.
-
-## 🚀 Competências Desenvolvidas
-
-* Pesquisa e curadoria de conteúdo.
-* Organização do conhecimento técnico.
-* Aplicação de Inteligência Artificial na aprendizagem.
-* Documentação técnica utilizando Markdown.
-* Fundamentos de Segurança da Informação e Cibersegurança.
-
-## 📌 Considerações Finais
-
-Este projeto demonstra como a Inteligência Artificial pode ser utilizada não apenas para fortalecer a segurança de sistemas, mas também como uma ferramenta poderosa para potencializar o aprendizado e a organização do conhecimento técnico.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-README.md
-│
-docs/
-├── 01-Resumo.md
-├── 02-Glossario.md
-├── 03-Engenharia-de-Prompts.md
-├── 04-Conjunto-de-Prompts.md
-└── 05-Fontes.md
+* Estudar aplicações práticas de IA na detecção de ameaças cibernéticas.
+* Explorar conceitos como Machine Learning, Deep Learning e SIEM.
+* Desenvolver habilidades em Engenharia de Prompts.
+* Produzir documentação técnica organizada utilizando Markdown.
+* Construir um material de consulta para futuras revisões.
 
 ---
 
-⭐ Caso este projeto seja útil para você, considere deixar uma estrela no repositório!
+## 📂 Estrutura do Projeto
+
+```text
+.
+├── README.md
+├── docs
+│   ├── 01-Resumo.md
+│   ├── 02-Glossario.md
+│   ├── 03-Engenharia-de-Prompts.md
+│   ├── 04-Conjunto-de-Prompts.md
+│   └── 05-Fontes.md
+└── assets
+```
+
+---
+
+## 📚 Conteúdo
+
+* 📄 [Resumo](docs/01-Resumo.md)
+* 📖 [Glossário](docs/02-Glossario.md)
+* 💬 [Engenharia de Prompts](docs/03-Engenharia-de-Prompts.md)
+* 🎯 [Conjunto de Prompts](docs/04-Conjunto-de-Prompts.md)
+* 📚 [Fontes Utilizadas](docs/05-Fontes.md)
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+* NotebookLM
+* Inteligência Artificial Generativa
+* Machine Learning
+* Deep Learning
+* Markdown
+* GitHub
+
+---
+
+## 📌 Principais Temas Estudados
+
+* Inteligência Artificial aplicada à Cibersegurança
+* Machine Learning
+* Deep Learning
+* SIEM
+* Zero-Day
+* Ransomware
+* MITRE ATT&CK
+* CWE
+* CVE
+* CVSS
+* SBOM
+* SSDF
+* Segurança da IA
+* Engenharia de Prompts
+
+---
+
+## 💼 Competências Desenvolvidas
+
+Durante este projeto foram desenvolvidas competências em:
+
+* Pesquisa técnica
+* Curadoria de conteúdo
+* Engenharia de Prompts
+* Documentação técnica
+* Organização do conhecimento
+* Segurança da Informação
+* Inteligência Artificial aplicada à Cibersegurança
+* GitHub e Markdown
+
+---
+
+## 🚀 Resultados Obtidos
+
+Ao final deste projeto foi possível:
+
+* Consolidar conceitos fundamentais de IA aplicada à Segurança da Informação.
+* Compreender aplicações práticas da IA em ambientes corporativos.
+* Desenvolver técnicas de Engenharia de Prompts para obtenção de respostas mais precisas.
+* Produzir um material de consulta estruturado para estudos futuros.
+* Criar uma documentação organizada para compor o portfólio profissional.
+
+---
+
+## 📚 Referências
+
+As principais referências utilizadas encontram-se no arquivo:
+
+➡️ **[Fontes Utilizadas](docs/05-Fontes.md)**
+
+---
+
+## 👨‍💻 Autor
+
+**Lucas Mafra**
+
+Projeto desenvolvido como parte dos estudos na **Digital Innovation One (DIO)**, utilizando o **NotebookLM** para pesquisa, organização do conhecimento e aprendizado sobre Inteligência Artificial aplicada à Segurança da Informação.
+
+---
+
+⭐ **Se este projeto foi útil para você, considere deixar uma estrela no repositório!**
