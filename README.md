@@ -42,11 +42,11 @@ Além da pesquisa técnica, o projeto demonstra a utilização da IA como ferram
 ---
 ## 📚 Conteúdo
 
-- 📄 [Resumo](01-Resumo.md)
-- 📖 [Glossário](02-Glossario.md)
-- 💬 [Engenharia de Prompts](03-Engenharia-de-Prompts.md)
-- 🎯 [Conjunto de Prompts](04-Conjunto-de-Prompts.md)
-- 📚 [Fontes Utilizadas](05-Fontes.md)
+- 📄 Resumo
+- 📖 Glossário
+- 💬 Engenharia de Prompts
+- 🎯 Conjunto de Prompts
+- 📚 Fontes Utilizadas
 
 ---
 
